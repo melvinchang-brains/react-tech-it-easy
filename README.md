@@ -196,6 +196,3 @@ hebben we namelijk _State_ voor nodig. Daarom log je de gesorteerde tv's in de c
 ```javascript
 conditie && <element dat weergegeven moet worden als TRUE>
 ```
-
-Voor de `?` plaats je de conditie die getoetst wordt (is de tv uitverkocht?). Als de conditie waar is, toon je het
-plaatje door dit element achter de `&&` te zetten (zonder '').
